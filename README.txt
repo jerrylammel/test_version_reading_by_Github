@@ -11,3 +11,5 @@ and push the local repository to the remote repository, ie. the first push to th
 Would we be able to see the history of all the past commits done locally with Git?
 
 Let's see ... 
+
+Now, head to GitHub and create a remote repository to check this out:-) 
