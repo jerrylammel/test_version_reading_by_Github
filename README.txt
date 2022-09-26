@@ -13,3 +13,7 @@ Would we be able to see the history of all the past commits done locally with Gi
 Let's see ... 
 
 Now, head to GitHub and create a remote repository to check this out:-) 
+
+Alright, as I expected, all version history in the local repository managed by Git has been read well into GitHub.
+That said, we could see history of every single commit we made by Git before first pushing of the repository to a
+remote repository in GitHub. Horray!
